@@ -1,0 +1,58 @@
+{
+  "experiences": [
+    {
+      "company": "Alief ISD",
+      "link": "/",
+      "title": "Middle School Math Teacher",
+      "duration": "October 2015 - Present",
+      "desc": [
+        "Develope and improve lesson plans to increase efficiency in student's educational performance.",
+        "Collaborate with teachers, counselors and administrators to share experiences and skills to form a dynamic learning environment.",
+        "Foster clear communication to various groups of people with differing levels of understanding and involvement.",
+        "Innovate and experiment with new processes, tools or technologies to improve classroom environment."
+      ]
+    },
+    {
+      "company": "NuCamp",
+      "link": "/",
+      "title": "Bootcamp Student",
+      "duration": "July 2022 - November 2022",
+      "desc": [
+        "Build websites that use Bootstrap, CSS and JavaScript to develope a responsive design to fit all screen sizes.",
+        "Create state-aware applications using redux toolkit while implementing React, JavaScript ES6 and React Hooks.",
+        "Transform website into true mobile application using React Native and Expo SDK.",
+        "Implement back-end data storage, authentication and cybersecurity with the use of NodeJS, Express and MongoDB."
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "link": "/",
+      "title": "Web Developer",
+      "duration": "September 2022 - Present",
+      "desc": [
+        "Create user-friendly web pages that is optimized for maximum performance.",
+        "Maintain and improve website while implementing mobile-based features.",
+        "Collaborate with the customer to improve website visuals and functionality.",
+        "Troubleshooting issues that may arise on the front-end or back-end."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Nail Salon",
+      "image": "./images/project_1.png",
+      "desc": "A minimalist website for a minority owned small business. Customers are able to book appointments, look at services offered, learn about the store's history, and view the salon's best work.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "github1": "https://github.com/nguyenth21/nucamp_portfolio_project.git",
+      "link": ""
+    },
+    {
+      "title": "NuCamp",
+      "image": "./images/project_2.png",
+      "desc": "A website built during my bootcamp course with NuCamp. It started as responsive website with Bootstrap then became dynamic with React.",
+      "skills": ["React", "HTML", "CSS", "JavaScript"],
+      "github2": "https://github.com/nguyenth21/Nucampsite_bootstrap.git",
+      "link": "/"
+    }
+  ]
+}
